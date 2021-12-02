@@ -1,5 +1,5 @@
 import './App.css';
-import { Routes, Route, Link } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import WishList from './components/WishList/WishList';
 import Login from './components/Login/Login';
 
